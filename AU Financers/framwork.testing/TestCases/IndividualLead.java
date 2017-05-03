@@ -46,6 +46,8 @@ public class IndividualLead extends LeadMethods {
 		Log.info("POT taken for success logged in");
 		common.TakeScreenshots();
 		
+		System.out.println"Hello);
+		
 	
 	}
 
